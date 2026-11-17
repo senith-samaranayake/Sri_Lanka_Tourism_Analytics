@@ -112,6 +112,7 @@ The Plotly outputs are stored as HTML files in [visualizations/plotly/](visualiz
 </div>
 
 <div>
-**© 2026 Senith Samaranayake. All Rights Reserved.**
+  
+# © 2026 Senith Samaranayake. All Rights Reserved.
 
 </div>
