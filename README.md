@@ -98,7 +98,7 @@ The Plotly outputs are stored as HTML files in [visualizations/plotly/](visualiz
 
 ## Tools
 
-<div align="center">
+<div>
 
 <img src="https://img.shields.io/badge/Python-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Python" />
 <img src="https://img.shields.io/badge/Pandas-2A0B18?style=flat-square&logo=pandas&logoColor=E8BD72" alt="Pandas" />
@@ -111,4 +111,7 @@ The Plotly outputs are stored as HTML files in [visualizations/plotly/](visualiz
 
 </div>
 
-<div>**© 2026 Senith Samaranayake. All Rights Reserved.**</div>
+<div>
+**© 2026 Senith Samaranayake. All Rights Reserved.**
+
+</div>
