@@ -98,6 +98,17 @@ The Plotly outputs are stored as HTML files in [visualizations/plotly/](visualiz
 
 ## Tools
 
-Python · pandas · NumPy · Matplotlib · Seaborn · Plotly · SQL · Jupyter
+<div align="center">
 
+<img src="https://img.shields.io/badge/Python-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-2A0B18?style=flat-square&logo=pandas&logoColor=E8BD72" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-2A0B18?style=flat-square&logo=numpy&logoColor=E8BD72" alt="NumPy" />
+<img src="https://img.shields.io/badge/SQL-2A0B18?style=flat-square&logo=postgresql&logoColor=E8BD72" alt="SQL" />
+<img src="https://img.shields.io/badge/Matplotlib-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Plotly-2A0B18?style=flat-square&logo=plotly&logoColor=E8BD72" alt="Plotly" />
+<img src="https://img.shields.io/badge/Jupyter-2A0B18?style=flat-square&logo=jupyter&logoColor=E8BD72" alt="Jupyter" />
 
+</div>
+
+<div>**© 2026 Senith Samaranayake. All Rights Reserved.**</div>
