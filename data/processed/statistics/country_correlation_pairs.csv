@@ -1,0 +1,46 @@
+Country_1,Country_2,Correlation
+France,United Kingdom,0.930376811618602
+Germany,United Kingdom,0.8790947744124538
+Australia,India,0.8673741409283231
+France,Germany,0.8631286023582186
+Germany,United States,0.8528459372065497
+United Kingdom,United States,0.8225965200628154
+Australia,United States,0.7980681440216261
+China,India,0.7969079549854965
+China,United Kingdom,0.7871089389369623
+Australia,China,0.784261882041736
+Canada,United Kingdom,0.7604460206323647
+China,France,0.7528408484407716
+France,United States,0.7404212188558584
+Netherlands,United Kingdom,0.734247253095493
+China,United States,0.725865512346731
+China,Germany,0.7234282367171186
+Germany,Russian Federation,0.7157852577720375
+Canada,France,0.7119502740208199
+Australia,United Kingdom,0.696944885481885
+Canada,Netherlands,0.6883485289410318
+Australia,Germany,0.677708625145125
+Canada,United States,0.6716028930399582
+India,United States,0.6641369229591236
+France,Netherlands,0.6601799280804873
+China,Netherlands,0.6496557256475228
+Russian Federation,United States,0.6387727567231466
+Canada,China,0.6187436172756847
+India,United Kingdom,0.59288378791582
+Germany,India,0.5698620087474848
+Canada,Germany,0.5632086972541777
+Australia,France,0.5546418678777094
+Australia,Netherlands,0.5050738238250412
+France,Russian Federation,0.49160041769172486
+France,India,0.4843704415361018
+Netherlands,United States,0.48305109951682035
+Germany,Netherlands,0.47710886055190027
+Australia,Canada,0.46650224047885513
+Russian Federation,United Kingdom,0.4639891278639251
+India,Netherlands,0.4396460944844044
+Canada,India,0.39112548398663294
+Australia,Russian Federation,0.34882372925525607
+Canada,Russian Federation,0.25487740626287897
+China,Russian Federation,0.23691136323621864
+India,Russian Federation,0.16110025234320483
+Netherlands,Russian Federation,0.04974245202789799

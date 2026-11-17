@@ -1,0 +1,959 @@
+Year,Country_Standardized,Arrivals,Rank
+2022,India,123004.0,1.0
+2022,Russian Federation,91272.0,2.0
+2022,United Kingdom,85187.0,3.0
+2022,Germany,55542.0,4.0
+2022,France,35482.0,5.0
+2022,Australia,30924.0,6.0
+2022,Canada,26845.0,7.0
+2022,United States,22230.0,8.0
+2022,Maldives,18880.0,9.0
+2022,Poland,15195.0,10.0
+2022,Ukraine,14917.0,11.0
+2022,Switzerland,13260.0,12.0
+2022,Spain,12895.0,13.0
+2022,Netherlands,11987.0,14.0
+2022,Israel,9326.0,15.0
+2022,Kazakhstan,8068.0,16.0
+2022,Italy,7449.0,17.0
+2022,Czech Republic,7350.0,18.0
+2022,Denmark,7278.0,19.0
+2022,Pakistan,6260.0,20.0
+2022,Belgium,6164.0,21.0
+2022,Norway,5983.0,22.0
+2022,Saudi Arabia,5952.0,23.0
+2022,Austria,5541.0,24.0
+2022,Sweden,5097.0,25.0
+2022,China,4715.0,26.0
+2022,Iran,4301.0,27.0
+2022,Bangladesh,3817.0,28.0
+2022,Singapore,3770.0,29.0
+2022,Belarus,3621.0,30.0
+2022,Romania,3313.0,31.0
+2022,Japan,3087.0,32.0
+2022,Ireland,3056.0,33.0
+2022,New Zealand,2866.0,34.0
+2022,Malaysia,2779.0,35.0
+2022,Jordan,2472.0,36.0
+2022,Slovakia,2432.0,37.0
+2022,Egypt,2340.0,38.0
+2022,Hungary,2324.0,39.0
+2022,Lithuania,2115.0,40.0
+2022,Philippines,1961.0,41.0
+2022,Portugal,1906.0,42.0
+2022,South Korea,1843.0,43.0
+2022,Thailand,1725.0,44.0
+2022,Bulgaria,1643.0,45.0
+2022,Lebanon,1606.0,46.0
+2022,Turkey,1514.0,47.0
+2022,South Africa-Zuid Afrika,1502.0,48.0
+2022,Finland,1500.0,49.0
+2022,United Arab Emirates,1347.0,50.0
+2022,Latvia,1305.0,51.0
+2022,Uzbekistan,1242.0,52.0
+2022,Iraq,1113.0,53.0
+2022,Nepal,1065.0,54.0
+2022,Estonia,978.0,55.0
+2022,Kuwait,952.0,56.0
+2022,Greece,899.0,57.0
+2022,Indonesia,885.0,58.0
+2022,Oman,876.0,59.0
+2022,Sudan,818.0,60.0
+2022,Georgia,792.0,61.0
+2022,Azerbaijan,781.0,62.0
+2022,Armenia,779.0,63.0
+2022,Serbia,673.0,64.0
+2022,Brazil,669.0,65.0
+2022,Slovenia,602.0,66.0
+2022,Kyrgyzstan,532.0,67.0
+2022,Vietnam,519.0,68.0
+2022,Bahrain,510.0,69.0
+2022,Morocco,446.0,70.0
+2022,Cyprus,390.0,71.0
+2022,Tunisia,379.0,72.0
+2022,Palestinian Territories,366.0,73.0
+2022,Taiwan,363.0,74.0
+2022,Seychelles,347.0,75.0
+2022,Croatia,338.0,76.0
+2022,Mexico,334.0,77.0
+2022,Colombia,304.0,78.0
+2022,Qatar,301.0,79.0
+2022,Malta,273.0,80.0
+2022,Argentina,268.0,81.0
+2022,Myanmar,252.0,82.0
+2022,Moldova,241.0,83.0
+2022,Luxembourg,233.0,84.0
+2022,Kenya,230.0,85.0
+2022,Yemen,229.0,86.0
+2022,Chile,182.0,87.0
+2022,Algeria,174.0,88.0
+2022,Iceland,163.0,89.0
+2022,Cambodia,157.0,90.0
+2022,Bhutan,139.0,91.0
+2022,Tajikistan,133.0,92.0
+2022,Mauritius,130.0,93.0
+2022,Bosnia & Herzegovina,104.0,94.0
+2022,Peru,87.0,95.0
+2022,Tanzania,85.0,96.0
+2022,Albania,83.0,97.0
+2022,Macedonia,71.0,98.0
+2022,Zimbabwe,69.0,99.0
+2022,Madagascar,62.0,100.0
+2022,Ecuador,59.0,101.0
+2022,Montenegro,59.0,101.0
+2022,Ethiopia,56.0,102.0
+2022,Uganda,56.0,102.0
+2022,Uruguay,53.0,103.0
+2022,Mongolia,52.0,104.0
+2022,Fiji,48.0,105.0
+2022,Saint Kitts And Nevis,46.0,106.0
+2022,Monaco,43.0,107.0
+2022,Costa Rica,40.0,108.0
+2022,Afghanistan,39.0,109.0
+2022,Bolivia,37.0,110.0
+2022,Dominica,37.0,110.0
+2022,Venezuela,30.0,111.0
+2022,Ghana,29.0,112.0
+2022,Lao Peoples,29.0,112.0
+2022,Libya,29.0,112.0
+2022,Turkmenistan,29.0,112.0
+2022,Liechtenstein,27.0,113.0
+2022,Nigeria,27.0,113.0
+2022,Zambia,26.0,114.0
+2022,Andorra,25.0,115.0
+2022,El Salvador,25.0,115.0
+2022,Namibia,24.0,116.0
+2022,Trinidad And Tobago,22.0,117.0
+2022,Papua New Guinea,21.0,118.0
+2022,Cuba,19.0,119.0
+2022,Somalia,18.0,120.0
+2022,Antigua & Barbuda,16.0,121.0
+2022,Brunei Darussalam,16.0,121.0
+2022,Comoros,16.0,121.0
+2022,Guatemala,16.0,121.0
+2022,Botswana,15.0,122.0
+2022,Malawi,15.0,122.0
+2022,"Congo, Republic Of.",14.0,123.0
+2022,Grenada,14.0,123.0
+2022,Mozambique,14.0,123.0
+2022,Syrian Arab Republic,14.0,123.0
+2022,Angola,13.0,124.0
+2022,Barbados,13.0,124.0
+2022,Jamaica,13.0,124.0
+2022,Kosovar,13.0,124.0
+2022,Eritrea,12.0,125.0
+2022,Panama,12.0,125.0
+2022,Honduras,10.0,126.0
+2022,Paraguay,10.0,126.0
+2022,Republic Of Zimbabwe,10.0,126.0
+2022,Senegal,10.0,126.0
+2022,Sierra Leone,10.0,126.0
+2022,Vanuatu,10.0,126.0
+2022,Guyana,9.0,127.0
+2022,Rwanda,9.0,127.0
+2022,Dominican Republic,8.0,128.0
+2022,Cameroon,7.0,129.0
+2022,Djibouti,7.0,129.0
+2022,Saint Lucia,7.0,129.0
+2022,Cape Verde,6.0,130.0
+2022,Chad,5.0,131.0
+2022,Liberia,5.0,131.0
+2022,Mauritania,5.0,131.0
+2022,Suriname,5.0,131.0
+2022,Swaziland,4.0,132.0
+2022,Togo,4.0,132.0
+2022,Equatorial Guinea,3.0,133.0
+2022,Gabon,3.0,133.0
+2022,Lesotho,3.0,133.0
+2022,Mali,3.0,133.0
+2022,Nicaragua,3.0,133.0
+2022,Bahamas,2.0,134.0
+2022,Belize,2.0,134.0
+2022,Guam,2.0,134.0
+2022,Marshall Islands,2.0,134.0
+2022,Niger,2.0,134.0
+2022,TIMOR-LESTE,2.0,134.0
+2022,Antarctica,1.0,135.0
+2022,Benin,1.0,135.0
+2022,Burkina Faso,1.0,135.0
+2022,Cote Divoire,1.0,135.0
+2022,Gambia,1.0,135.0
+2022,Guinea-Bissau,1.0,135.0
+2022,Haiti,1.0,135.0
+2022,Hong Kong,1.0,135.0
+2022,Micronesia,1.0,135.0
+2022,San Marino,1.0,135.0
+2022,Solomon Islands,1.0,135.0
+2022,South Sudan,1.0,135.0
+2022,Tonga,1.0,135.0
+2023,India,302844.0,1.0
+2023,Russian Federation,197498.0,2.0
+2023,United Kingdom,130088.0,3.0
+2023,Germany,102539.0,4.0
+2023,China,68789.0,5.0
+2023,Australia,67436.0,6.0
+2023,France,56251.0,7.0
+2023,United States,46344.0,8.0
+2023,Canada,43944.0,9.0
+2023,Maldives,37328.0,10.0
+2023,Netherlands,29056.0,11.0
+2023,Spain,23905.0,12.0
+2023,Switzerland,23556.0,13.0
+2023,Italy,22242.0,14.0
+2023,Japan,19583.0,15.0
+2023,Israel,19517.0,16.0
+2023,Poland,17946.0,17.0
+2023,Bangladesh,17846.0,18.0
+2023,Czech Republic,12056.0,19.0
+2023,Belarus,10969.0,20.0
+2023,Malaysia,10940.0,21.0
+2023,Pakistan,10744.0,22.0
+2023,Belgium,10667.0,23.0
+2023,Austria,10594.0,24.0
+2023,Denmark,10346.0,25.0
+2023,Iran,10322.0,26.0
+2023,Singapore,9551.0,27.0
+2023,Norway,8747.0,28.0
+2023,Sweden,8643.0,29.0
+2023,New Zealand,7913.0,30.0
+2023,South Korea,7298.0,31.0
+2023,Saudi Arabia,6797.0,32.0
+2023,Ireland,5136.0,33.0
+2023,Kazakhstan,5130.0,34.0
+2023,Ukraine,5082.0,35.0
+2023,Taiwan Province of China,4999.0,36.0
+2023,Thailand,4922.0,37.0
+2023,Nepal,4750.0,38.0
+2023,Slovakia(Slovak Republic),4464.0,39.0
+2023,Philippines,4164.0,40.0
+2023,Romania,4092.0,41.0
+2023,Portugal,3943.0,42.0
+2023,Hungary,3786.0,43.0
+2023,Turkey,3739.0,44.0
+2023,Jordan,3604.0,45.0
+2023,South Africa-Zuid Afrika,3444.0,46.0
+2023,Lebanon,3347.0,47.0
+2023,Egypt,3091.0,48.0
+2023,United Arab Emirates,2945.0,49.0
+2023,Lithuania,2722.0,50.0
+2023,Armenia,2490.0,51.0
+2023,Indonesia,2352.0,52.0
+2023,Viet Nam,2307.0,53.0
+2023,Finland,2287.0,54.0
+2023,Oman,2038.0,55.0
+2023,Bulgaria,1960.0,56.0
+2023,Kuwait,1955.0,57.0
+2023,Slovenia,1927.0,58.0
+2023,Greece,1816.0,59.0
+2023,Estonia,1808.0,60.0
+2023,Azerbaijan,1679.0,61.0
+2023,Latvia,1606.0,62.0
+2023,Serbia,1365.0,63.0
+2023,Seychelles,1358.0,64.0
+2023,Brazil,1337.0,65.0
+2023,Bahrain,1232.0,66.0
+2023,Uzbekistan,1177.0,67.0
+2023,Myanmar,1130.0,68.0
+2023,Cyprus,951.0,69.0
+2023,Croatia,930.0,70.0
+2023,Georgia,914.0,71.0
+2023,Iraq,902.0,72.0
+2023,Kyrgyzstan,834.0,73.0
+2023,Qatar,822.0,74.0
+2023,Sudan,819.0,75.0
+2023,Mexico,792.0,76.0
+2023,Morocco,789.0,77.0
+2023,Argentina,687.0,78.0
+2023,Tunisia,687.0,78.0
+2023,Malta,650.0,79.0
+2023,Kenya,613.0,80.0
+2023,Palestinian Territories,590.0,81.0
+2023,Colombia,539.0,82.0
+2023,Luxembourg,539.0,82.0
+2023,Cambodia,519.0,83.0
+2023,Mauritius,471.0,84.0
+2023,Yemen (Yemen Arab Republic),445.0,85.0
+2023,Bhutan,433.0,86.0
+2023,Moldova,412.0,87.0
+2023,Chile,394.0,88.0
+2023,Algeria,311.0,89.0
+2023,Iceland,238.0,90.0
+2023,Macedonia,201.0,91.0
+2023,Afghanistan,181.0,92.0
+2023,Bosnia and Herzegovina,175.0,93.0
+2023,Tajikistan,175.0,93.0
+2023,Fiji,166.0,94.0
+2023,Zimbabwe,157.0,95.0
+2023,Peru,147.0,96.0
+2023,Madagascar,143.0,97.0
+2023,Tanzania,141.0,98.0
+2023,Uganda,127.0,99.0
+2023,Ethiopia,121.0,100.0
+2023,Mongolia,121.0,100.0
+2023,Turkmenistan,121.0,100.0
+2023,"Lao, People's Democratic Republic",108.0,101.0
+2023,Venezuela,106.0,102.0
+2023,Ecuador,98.0,103.0
+2023,Saint Kitts and Nevis,94.0,104.0
+2023,Nigeria,93.0,105.0
+2023,Albania,88.0,106.0
+2023,Dominica,85.0,107.0
+2023,Montenegro,76.0,108.0
+2023,Uruguay,74.0,109.0
+2023,Liechtenstein,72.0,110.0
+2023,Comoros,66.0,111.0
+2023,Costa Rica,62.0,112.0
+2023,Botswana,61.0,113.0
+2023,Jamaica,57.0,114.0
+2023,Libya(Libyan Arab Jamahir),57.0,114.0
+2023,Trinidad and Tobago,55.0,115.0
+2023,Andorra,53.0,116.0
+2023,Somalia,53.0,116.0
+2023,Zambia(Northern Rhodesia),51.0,117.0
+2023,Cuba,50.0,118.0
+2023,Guatemala,48.0,119.0
+2023,Ghana,43.0,120.0
+2023,Malawi,42.0,121.0
+2023,Papua New Guinea,41.0,122.0
+2023,Vanuatu,41.0,122.0
+2023,El Salvador,39.0,123.0
+2023,Kosovar,38.0,124.0
+2023,Bolivia,34.0,125.0
+2023,Mozambique,34.0,125.0
+2023,Timor-Leste,34.0,125.0
+2023,Brunei Darussalam,33.0,126.0
+2023,Senegal,32.0,127.0
+2023,Dominican Republic,29.0,128.0
+2023,Honduras,29.0,128.0
+2023,Cameroon,28.0,129.0
+2023,Antigua and Barbuda,27.0,130.0
+2023,Suriname,27.0,130.0
+2023,Paraguay,25.0,131.0
+2023,Rwanda,24.0,132.0
+2023,Monaco,23.0,133.0
+2023,Eritrea,22.0,134.0
+2023,"Congo, The Democratic Republic",21.0,135.0
+2023,Bahamas,20.0,136.0
+2023,Panama,20.0,136.0
+2023,"Gambia, The",18.0,137.0
+2023,Namibia,17.0,138.0
+2023,Barbados,16.0,139.0
+2023,Grenada,15.0,140.0
+2023,Mali,15.0,140.0
+2023,South Sudan,15.0,140.0
+2023,Guyana,14.0,141.0
+2023,Burundi,12.0,142.0
+2023,Haiti,12.0,142.0
+2023,Nicaragua,12.0,142.0
+2023,Saint Lucia,12.0,142.0
+2023,Togo,12.0,142.0
+2023,Djibouti,11.0,143.0
+2023,Sierra Leone,11.0,143.0
+2023,Angola,10.0,144.0
+2023,Benin,10.0,144.0
+2023,Cote Divoire,10.0,144.0
+2023,Swaziland,10.0,144.0
+2023,Belize,9.0,145.0
+2023,Burkina Faso,9.0,145.0
+2023,Guinea,8.0,146.0
+2023,Nauru,8.0,146.0
+2023,Niger,8.0,146.0
+2023,Saint Vincent The Grenadi,8.0,146.0
+2023,San Marino,8.0,146.0
+2023,Marshall Islands,7.0,147.0
+2023,Mauritania,7.0,147.0
+2023,Tonga,6.0,148.0
+2023,Liberia,5.0,149.0
+2023,Solomon Islands,5.0,149.0
+2023,Syrian Arab Republic,5.0,149.0
+2023,Lesotho,4.0,150.0
+2023,Palau,4.0,150.0
+2023,Samoa,3.0,151.0
+2023,Tuvalu,3.0,151.0
+2023,Aruba,2.0,152.0
+2023,Cape Verde,2.0,152.0
+2023,Central African Republic,2.0,152.0
+2023,Gabon,2.0,152.0
+2023,Kiribati,2.0,152.0
+2023,Chad,1.0,153.0
+2024,India,416974.0,1.0
+2024,Russian Federation,201920.0,2.0
+2024,United Kingdom,178339.0,3.0
+2024,Germany,136084.0,4.0
+2024,China,131681.0,5.0
+2024,Australia,89573.0,6.0
+2024,France,88775.0,7.0
+2024,United States,59532.0,8.0
+2024,Netherlands,50116.0,9.0
+2024,Maldives,47222.0,10.0
+2024,Poland,44165.0,11.0
+2024,Canada,42212.0,12.0
+2024,Bangladesh,39555.0,13.0
+2024,Italy,38709.0,14.0
+2024,Spain,37928.0,15.0
+2024,Japan,30429.0,16.0
+2024,Switzerland,29829.0,17.0
+2024,Israel,24845.0,18.0
+2024,Czech Republic,19279.0,19.0
+2024,Malaysia,18259.0,20.0
+2024,Belgium,17219.0,21.0
+2024,Austria,17103.0,22.0
+2024,Denmark,14952.0,23.0
+2024,Pakistan,13451.0,24.0
+2024,Sweden,13413.0,25.0
+2024,Singapore,12591.0,26.0
+2024,Norway,11399.0,27.0
+2024,Kazakhstan,11383.0,28.0
+2024,New Zealand,11282.0,29.0
+2024,Belarus,10933.0,30.0
+2024,Iran,10858.0,31.0
+2024,South Korea,10800.0,32.0
+2024,Ireland,8747.0,33.0
+2024,Thailand,7246.0,34.0
+2024,Ukraine,7099.0,35.0
+2024,Slovakia,6710.0,36.0
+2024,Turkey,6673.0,37.0
+2024,Hungary,6580.0,38.0
+2024,Portugal,6489.0,39.0
+2024,Romania,6407.0,40.0
+2024,Lithuania,6395.0,41.0
+2024,Saudi Arabia,5887.0,42.0
+2024,Philippines,5267.0,43.0
+2024,South Africa,4872.0,44.0
+2024,Nepal,4463.0,45.0
+2024,United Arab Emirates,4296.0,46.0
+2024,Finland,4276.0,47.0
+2024,Egypt,4069.0,48.0
+2024,Estonia,3800.0,49.0
+2024,Indonesia,3744.0,50.0
+2024,Bulgaria,3699.0,51.0
+2024,Latvia,3570.0,52.0
+2024,Slovenia,3477.0,53.0
+2024,Lebanon,3438.0,54.0
+2024,Viet Nam,2963.0,55.0
+2024,Greece,2853.0,56.0
+2024,Jordan,2823.0,57.0
+2024,Oman,2775.0,58.0
+2024,Seychelles,2691.0,59.0
+2024,Armenia,2634.0,60.0
+2024,Azerbaijan,2035.0,61.0
+2024,Serbia,2015.0,62.0
+2024,Brazil,1945.0,63.0
+2024,Kuwait,1885.0,64.0
+2024,Croatia,1859.0,65.0
+2024,Myanmar,1515.0,66.0
+2024,Uzbekistan,1218.0,67.0
+2024,Cyprus,1194.0,68.0
+2024,Cambodia,1183.0,69.0
+2024,Bahrain,1169.0,70.0
+2024,Kyrgyzstan,1069.0,71.0
+2024,Mexico,1068.0,72.0
+2024,Morocco,1042.0,73.0
+2024,Georgia,1024.0,74.0
+2024,Iraq,1012.0,75.0
+2024,Malta,1000.0,76.0
+2024,Tunisia,980.0,77.0
+2024,Sudan,941.0,78.0
+2024,Argentina,931.0,79.0
+2024,Kenya,807.0,80.0
+2024,Luxembourg,764.0,81.0
+2024,Mauritius,755.0,82.0
+2024,Qatar,746.0,83.0
+2024,Moldova,723.0,84.0
+2024,Bhutan,715.0,85.0
+2024,Colombia,666.0,86.0
+2024,Palestinian Territories,600.0,87.0
+2024,Chile,552.0,88.0
+2024,Yemen,405.0,89.0
+2024,Algeria,399.0,90.0
+2024,Iceland,323.0,91.0
+2024,Bosnia and Herzegovina,306.0,92.0
+2024,Tanzania,268.0,93.0
+2024,Macedonia,253.0,94.0
+2024,Peru,247.0,95.0
+2024,Zimbabwe,203.0,96.0
+2024,Afghanistan,198.0,97.0
+2024,Uganda,196.0,98.0
+2024,Montenegro,169.0,99.0
+2024,Fiji,163.0,100.0
+2024,Saint Kitts and Nevis,152.0,101.0
+2024,Tajikistan,149.0,102.0
+2024,Venezuela,147.0,103.0
+2024,Madagascar,143.0,104.0
+2024,Andorra,131.0,105.0
+2024,Ethiopia,131.0,105.0
+2024,Mongolia,129.0,106.0
+2024,"Lao, People's Democratic",125.0,107.0
+2024,Dominica,124.0,108.0
+2024,Albania,117.0,109.0
+2024,Ecuador,116.0,110.0
+2024,Trinidad and Tobago,102.0,111.0
+2024,Uruguay,102.0,111.0
+2024,Costa Rica,98.0,112.0
+2024,Somalia,98.0,112.0
+2024,Nigeria,96.0,113.0
+2024,Jamaica,95.0,114.0
+2024,Liechtenstein,92.0,115.0
+2024,Comoros,91.0,116.0
+2024,Turkmenistan,91.0,116.0
+2024,Papua New Guinea,82.0,117.0
+2024,Libya,75.0,118.0
+2024,Brunei Darussalam,65.0,119.0
+2024,Guatemala,63.0,120.0
+2024,Vanuatu,61.0,121.0
+2024,Ghana,58.0,122.0
+2024,Cuba,57.0,123.0
+2024,Bolivia,55.0,124.0
+2024,Botswana,54.0,125.0
+2024,Malawi,53.0,126.0
+2024,Zambia,50.0,127.0
+2024,Mozambique,48.0,128.0
+2024,Antigua and Barbuda,46.0,129.0
+2024,Rwanda,46.0,129.0
+2024,Kosovar,45.0,130.0
+2024,Barbados,43.0,131.0
+2024,Grenada,37.0,132.0
+2024,Namibia,36.0,133.0
+2024,Panama,36.0,133.0
+2024,Dominican Republic,35.0,134.0
+2024,Palau,34.0,135.0
+2024,San Marino,34.0,135.0
+2024,Congo,33.0,136.0
+2024,Central African Republic,32.0,137.0
+2024,El Salvador,32.0,137.0
+2024,Monaco,32.0,137.0
+2024,Saint Lucia,29.0,138.0
+2024,Timor-Leste,29.0,138.0
+2024,Swaziland,28.0,139.0
+2024,Guyana,27.0,140.0
+2024,Sierra Leone,26.0,141.0
+2024,Syrian Arab Republic,25.0,142.0
+2024,Angola,24.0,143.0
+2024,Belize,24.0,143.0
+2024,Senegal,23.0,144.0
+2024,Bahamas,21.0,145.0
+2024,Cameroon,21.0,145.0
+2024,Eritrea,20.0,146.0
+2024,"Gambia, The",19.0,147.0
+2024,Honduras,19.0,147.0
+2024,Paraguay,19.0,147.0
+2024,Djibouti,18.0,148.0
+2024,Haiti,18.0,148.0
+2024,Tonga,16.0,149.0
+2024,Guinea,15.0,150.0
+2024,Lesotho,15.0,150.0
+2024,Suriname,15.0,150.0
+2024,Benin,13.0,151.0
+2024,Liberia,12.0,152.0
+2024,Cote Divoire,11.0,153.0
+2024,Mali,11.0,153.0
+2024,Solomon Islands,11.0,153.0
+2024,Burundi,9.0,154.0
+2024,Mauritania,9.0,154.0
+2024,South Sudan,9.0,154.0
+2024,Togo,9.0,154.0
+2024,Nicaragua,8.0,155.0
+2024,Equatorial Guinea,6.0,156.0
+2024,Burkina Faso,5.0,157.0
+2024,Chad,5.0,157.0
+2024,Saint Vincent The Grenadi,5.0,157.0
+2024,Guinea-Bissau,4.0,158.0
+2024,Micronesia,3.0,159.0
+2024,Cape Verde,2.0,160.0
+2024,Gabon,2.0,160.0
+2024,Marshall Islands,2.0,160.0
+2024,Nauru,2.0,160.0
+2024,Netherlands Antilles,2.0,160.0
+2024,Niger,2.0,160.0
+2024,Samoa,2.0,160.0
+2024,Tuvalu,2.0,160.0
+2024,Kiribati,1.0,161.0
+2024,Aruba,0.0,162.0
+2025,India,531511.0,1.0
+2025,United Kingdom,212277.0,2.0
+2025,Russian Federation,186580.0,3.0
+2025,Germany,147966.0,4.0
+2025,China,132035.0,5.0
+2025,Australia,109487.0,6.0
+2025,France,109041.0,7.0
+2025,United States,65973.0,8.0
+2025,Netherlands,64164.0,9.0
+2025,Bangladesh,59563.0,10.0
+2025,Italy,50430.0,11.0
+2025,Poland,49989.0,12.0
+2025,Canada,46133.0,13.0
+2025,Spain,46038.0,14.0
+2025,Japan,38153.0,15.0
+2025,Maldives,37165.0,16.0
+2025,Switzerland,33624.0,17.0
+2025,Israel,24591.0,18.0
+2025,Malaysia,23684.0,19.0
+2025,Pakistan,22296.0,20.0
+2025,Belgium,21056.0,21.0
+2025,Czech Republic,19082.0,22.0
+2025,Austria,18188.0,23.0
+2025,Denmark,17378.0,24.0
+2025,Singapore,15086.0,25.0
+2025,Sweden,14863.0,26.0
+2025,New Zealand,13456.0,27.0
+2025,Norway,13032.0,28.0
+2025,South Korea,12169.0,29.0
+2025,Ireland,10657.0,30.0
+2025,Belarus,10531.0,31.0
+2025,Iran,9786.0,32.0
+2025,Kazakhstan,9281.0,33.0
+2025,Ukraine,8758.0,34.0
+2025,Thailand,8595.0,35.0
+2025,Turkey,8112.0,36.0
+2025,Portugal,7985.0,37.0
+2025,Slovakia,7322.0,38.0
+2025,Philippines,6781.0,39.0
+2025,Lithuania,6506.0,40.0
+2025,Hungary,6408.0,41.0
+2025,Romania,6403.0,42.0
+2025,Saudi Arabia,6120.0,43.0
+2025,Nepal,5716.0,44.0
+2025,South Africa,5670.0,45.0
+2025,United Arab Emirates,5656.0,46.0
+2025,Finland,5287.0,47.0
+2025,Indonesia,5056.0,48.0
+2025,Greece,4670.0,49.0
+2025,Egypt,4362.0,50.0
+2025,Estonia,4309.0,51.0
+2025,Bulgaria,4262.0,52.0
+2025,Vietnam,3729.0,53.0
+2025,Slovenia,3698.0,54.0
+2025,Latvia,3590.0,55.0
+2025,Lebanon,3537.0,56.0
+2025,Seychelles,3468.0,57.0
+2025,Jordan,3073.0,58.0
+2025,Oman,2625.0,59.0
+2025,Myanmar,2563.0,60.0
+2025,Armenia,2464.0,61.0
+2025,Serbia,2297.0,62.0
+2025,Croatia,2126.0,63.0
+2025,Brazil,2106.0,64.0
+2025,Kuwait,1899.0,65.0
+2025,Iraq,1669.0,66.0
+2025,Azerbaijan,1373.0,67.0
+2025,Sudan,1318.0,68.0
+2025,Bahrain,1310.0,69.0
+2025,Cyprus,1267.0,70.0
+2025,Kenya,1201.0,71.0
+2025,Mexico,1183.0,72.0
+2025,Cambodia,1181.0,73.0
+2025,Malta,1151.0,74.0
+2025,Morocco,1138.0,75.0
+2025,Uzbekistan,987.0,76.0
+2025,Argentina,986.0,77.0
+2025,Mauritius,971.0,78.0
+2025,Qatar,875.0,79.0
+2025,Tunisia,867.0,80.0
+2025,Luxembourg,854.0,81.0
+2025,Kyrgyzstan,848.0,82.0
+2025,Georgia,786.0,83.0
+2025,Colombia,739.0,84.0
+2025,Chile,689.0,85.0
+2025,Moldova,656.0,86.0
+2025,Palestinian Territories,632.0,87.0
+2025,Bhutan,612.0,88.0
+2025,Algeria,577.0,89.0
+2025,Yemen,518.0,90.0
+2025,Tanzania,469.0,91.0
+2025,Bosnia and Herzegovina,350.0,92.0
+2025,Iceland,331.0,93.0
+2025,Peru,294.0,94.0
+2025,Tajikistan,262.0,95.0
+2025,Mongolia,240.0,96.0
+2025,Fiji,236.0,97.0
+2025,Uganda,228.0,98.0
+2025,Lao People's Democratic Republic,227.0,99.0
+2025,Ethiopia,222.0,100.0
+2025,Macedonia,213.0,101.0
+2025,Uruguay,213.0,101.0
+2025,Montenegro,190.0,102.0
+2025,Saint Kitts and Nevis,183.0,103.0
+2025,Madagascar,177.0,104.0
+2025,Albania,175.0,105.0
+2025,Zimbabwe,175.0,105.0
+2025,Turkmenistan,171.0,106.0
+2025,Dominica,166.0,107.0
+2025,Nigeria,160.0,108.0
+2025,Ecuador,149.0,109.0
+2025,Papua New Guinea,139.0,110.0
+2025,Venezuela,134.0,111.0
+2025,Andorra,126.0,112.0
+2025,Liechtenstein,124.0,113.0
+2025,Trinidad and Tobago,113.0,114.0
+2025,Costa Rica,111.0,115.0
+2025,Ghana,111.0,115.0
+2025,Comoros,101.0,116.0
+2025,Zambia,84.0,117.0
+2025,Somalia,82.0,118.0
+2025,Guatemala,81.0,119.0
+2025,Afghanistan,79.0,120.0
+2025,Brunei Darussalam,79.0,120.0
+2025,Kosovo,67.0,121.0
+2025,Vanuatu,65.0,122.0
+2025,Jamaica,53.0,123.0
+2025,Libya,51.0,124.0
+2025,Senegal,47.0,125.0
+2025,Cuba,45.0,126.0
+2025,Rwanda,45.0,126.0
+2025,Botswana,44.0,127.0
+2025,Malawi,44.0,127.0
+2025,Timor-Leste,40.0,128.0
+2025,Dominican Republic,39.0,129.0
+2025,Mozambique,39.0,129.0
+2025,Bahamas,38.0,130.0
+2025,Bolivia,38.0,130.0
+2025,Grenada,38.0,130.0
+2025,San Marino,36.0,131.0
+2025,Panama,35.0,132.0
+2025,Democratic Republic of  Congo,34.0,133.0
+2025,Honduras,33.0,134.0
+2025,Namibia,33.0,134.0
+2025,Paraguay,33.0,134.0
+2025,Saint Lucia,32.0,135.0
+2025,Guyana,29.0,136.0
+2025,Antigua and Barbuda,28.0,137.0
+2025,Benin,28.0,137.0
+2025,El Salvador,25.0,138.0
+2025,Barbados,23.0,139.0
+2025,Nicaragua,23.0,139.0
+2025,Sierra Leone,23.0,139.0
+2025,Suriname,23.0,139.0
+2025,Mali,22.0,140.0
+2025,Monaco,21.0,141.0
+2025,Republic of Congo,21.0,141.0
+2025,Belize,20.0,142.0
+2025,Angola,17.0,143.0
+2025,Cameroon,17.0,143.0
+2025,Eritrea,17.0,143.0
+2025,Burkina Faso,16.0,144.0
+2025,The Gambia,16.0,144.0
+2025,Cote d'lvoire,15.0,145.0
+2025,Chad,13.0,146.0
+2025,Liberia,13.0,146.0
+2025,Mauritania,13.0,146.0
+2025,Swaziland,13.0,146.0
+2025,Togo,13.0,146.0
+2025,Djibouti,12.0,147.0
+2025,Guinea,12.0,147.0
+2025,Haiti,12.0,147.0
+2025,Solomon Islands,12.0,147.0
+2025,Cape Verde,11.0,148.0
+2025,Syrian Arab Republic,11.0,148.0
+2025,Lesotho,10.0,149.0
+2025,Saint Vincent and the Grenadi,10.0,149.0
+2025,Burundi,7.0,150.0
+2025,Samoa,7.0,150.0
+2025,South Sudan,6.0,151.0
+2025,Central African Republic,5.0,152.0
+2025,Guinea-Bissau,4.0,153.0
+2025,Equatorial Guinea,3.0,154.0
+2025,Gabon,3.0,154.0
+2025,Niger,3.0,154.0
+2025,Tonga,3.0,154.0
+2025,Kiribati,2.0,155.0
+2025,North Korea,2.0,155.0
+2025,Marshall Islands,1.0,156.0
+2025,Nauru,1.0,156.0
+2025,Palau,1.0,156.0
+2025,Saint Barthelemy,1.0,156.0
+2025,Sao Tome and Principe,1.0,156.0
+2025,TUVALU,1.0,156.0
+2025,Vatican City,1.0,156.0
+2026,India,499625.0,1.0
+2026,United Kingdom,173129.0,2.0
+2026,China,123740.0,3.0
+2026,Germany,105305.0,4.0
+2026,Australia,95498.0,5.0
+2026,Russian Federation,89741.0,6.0
+2026,France,83902.0,7.0
+2026,United States,49435.0,8.0
+2026,Netherlands,43400.0,9.0
+2026,Bangladesh,37580.0,10.0
+2026,Canada,36617.0,11.0
+2026,Japan,36266.0,12.0
+2026,Maldives,34162.0,13.0
+2026,Italy,33212.0,14.0
+2026,Spain,30278.0,15.0
+2026,Poland,28121.0,16.0
+2026,Switzerland,25897.0,17.0
+2026,Israel,21741.0,18.0
+2026,Pakistan,21565.0,19.0
+2026,Malaysia,19882.0,20.0
+2026,Belgium,15955.0,21.0
+2026,Denmark,14201.0,22.0
+2026,Czech Republic,12442.0,23.0
+2026,Austria,12164.0,24.0
+2026,Singapore,11868.0,25.0
+2026,New Zealand,11586.0,26.0
+2026,Sweden,9187.0,27.0
+2026,South Korea,8740.0,28.0
+2026,Norway,8716.0,29.0
+2026,Ireland,8411.0,30.0
+2026,Thailand,7508.0,31.0
+2026,Turkey,7293.0,32.0
+2026,Indonesia,6688.0,33.0
+2026,Belarus,6658.0,34.0
+2026,Vietnam,6560.0,35.0
+2026,Nepal,6333.0,36.0
+2026,Philippines,5846.0,37.0
+2026,Ukraine,5779.0,38.0
+2026,United Arab Emirates,5402.0,39.0
+2026,Portugal,4712.0,40.0
+2026,Saudi Arabia,4644.0,41.0
+2026,Kazakhstan,4580.0,42.0
+2026,Slovakia,4489.0,43.0
+2026,Myanmar,4441.0,44.0
+2026,Hungary,4254.0,45.0
+2026,Oman,3836.0,46.0
+2026,South Africa,3775.0,47.0
+2026,Romania,3635.0,48.0
+2026,Finland,3513.0,49.0
+2026,Seychelles,3352.0,50.0
+2026,Lithuania,3351.0,51.0
+2026,Greece,3208.0,52.0
+2026,Egypt,2876.0,53.0
+2026,Estonia,2438.0,54.0
+2026,Bulgaria,2407.0,55.0
+2026,Slovenia,2302.0,56.0
+2026,Lebanon,2244.0,57.0
+2026,Jordan,1942.0,58.0
+2026,Latvia,1754.0,59.0
+2026,Iran,1728.0,60.0
+2026,Armenia,1538.0,61.0
+2026,Iraq,1534.0,62.0
+2026,Brazil,1417.0,63.0
+2026,Uzbekistan,1417.0,63.0
+2026,Bahrain,1370.0,64.0
+2026,Kuwait,1312.0,65.0
+2026,Cambodia,1240.0,66.0
+2026,Serbia,1194.0,67.0
+2026,Sudan,1119.0,68.0
+2026,Mexico,1062.0,69.0
+2026,Croatia,1048.0,70.0
+2026,Morocco,888.0,71.0
+2026,Kenya,883.0,72.0
+2026,Argentina,863.0,73.0
+2026,Mauritius,809.0,74.0
+2026,Azerbaijan,778.0,75.0
+2026,Cyprus,748.0,76.0
+2026,Qatar,721.0,77.0
+2026,Malta,692.0,78.0
+2026,Colombia,682.0,79.0
+2026,Tunisia,678.0,80.0
+2026,Luxembourg,653.0,81.0
+2026,Palestinian Territories,576.0,82.0
+2026,Bhutan,535.0,83.0
+2026,Chile,499.0,84.0
+2026,Kyrgyzstan,478.0,85.0
+2026,Yemen,411.0,86.0
+2026,Georgia,386.0,87.0
+2026,Lao People's Democratic Republic,381.0,88.0
+2026,Algeria,361.0,89.0
+2026,Iceland,347.0,90.0
+2026,Moldova,335.0,91.0
+2026,Bosnia and Herzegovina,238.0,92.0
+2026,Fiji,209.0,93.0
+2026,Zimbabwe,199.0,94.0
+2026,Mongolia,194.0,95.0
+2026,Ethiopia,193.0,96.0
+2026,Madagascar,184.0,97.0
+2026,Peru,184.0,97.0
+2026,Tanzania,183.0,98.0
+2026,Tajikistan,178.0,99.0
+2026,Uganda,164.0,100.0
+2026,Saint Kitts and Nevis,153.0,101.0
+2026,Venezuela,134.0,102.0
+2026,Ecuador,132.0,103.0
+2026,Turkmenistan,129.0,104.0
+2026,Nigeria,126.0,105.0
+2026,Albania,123.0,106.0
+2026,Vanuatu,116.0,107.0
+2026,Dominica,111.0,108.0
+2026,Macedonia,104.0,109.0
+2026,Papua New Guinea,99.0,110.0
+2026,Uruguay,98.0,111.0
+2026,Costa Rica,88.0,112.0
+2026,Montenegro,85.0,113.0
+2026,Trinidad and Tobago,84.0,114.0
+2026,Afghanistan,83.0,115.0
+2026,Guatemala,81.0,116.0
+2026,Brunei Darussalam,74.0,117.0
+2026,Comoros,71.0,118.0
+2026,Jamaica,68.0,119.0
+2026,Zambia,67.0,120.0
+2026,Democratic Republic of Congo,63.0,121.0
+2026,Senegal,62.0,122.0
+2026,Somalia,62.0,122.0
+2026,Liechtenstein,57.0,123.0
+2026,Saint Lucia,57.0,123.0
+2026,Andorra,55.0,124.0
+2026,Cuba,50.0,125.0
+2026,Barbados,49.0,126.0
+2026,Namibia,46.0,127.0
+2026,Ghana,43.0,128.0
+2026,Bolivia,41.0,129.0
+2026,Malawi,38.0,130.0
+2026,Paraguay,37.0,131.0
+2026,Libya,36.0,132.0
+2026,Guyana,35.0,133.0
+2026,Botswana,34.0,134.0
+2026,Eritrea,34.0,134.0
+2026,Timor-Leste,34.0,134.0
+2026,Antigua and Barbuda,32.0,135.0
+2026,Grenada,32.0,135.0
+2026,Bahamas,30.0,136.0
+2026,Dominican Republic,30.0,136.0
+2026,Kosovo,29.0,137.0
+2026,Honduras,28.0,138.0
+2026,Rwanda,26.0,139.0
+2026,Mozambique,25.0,140.0
+2026,Panama,24.0,141.0
+2026,El Salvador,23.0,142.0
+2026,Guinea,22.0,143.0
+2026,Sierra Leone,22.0,143.0
+2026,Syrian Arab Republic,20.0,144.0
+2026,Benin,17.0,145.0
+2026,Monaco,17.0,145.0
+2026,Cameroon,16.0,146.0
+2026,San Marino,15.0,147.0
+2026,Angola,14.0,148.0
+2026,Djibouti,14.0,148.0
+2026,Mali,14.0,148.0
+2026,The Gambia,14.0,148.0
+2026,Mauritania,12.0,149.0
+2026,Suriname,12.0,149.0
+2026,Cote Divoire,11.0,150.0
+2026,Nicaragua,11.0,150.0
+2026,Chad,10.0,151.0
+2026,Solomon Islands,10.0,151.0
+2026,Haiti,9.0,152.0
+2026,South Sudan,9.0,152.0
+2026,Kiribati,8.0,153.0
+2026,Burkina Faso,7.0,154.0
+2026,Lesotho,7.0,154.0
+2026,Niger,7.0,154.0
+2026,Republic of Congo,7.0,154.0
+2026,Togo,6.0,155.0
+2026,Belize,5.0,156.0
+2026,Burundi,5.0,156.0
+2026,Gabon,5.0,156.0
+2026,Palau,5.0,156.0
+2026,Samoa,5.0,156.0
+2026,Swaziland,5.0,156.0
+2026,Tonga,5.0,156.0
+2026,Saint Vincent and the Grenadines,4.0,157.0
+2026,Equatorial Guinea,3.0,158.0
+2026,Guinea-Bissau,3.0,158.0
+2026,Liberia,3.0,158.0
+2026,Nauru,3.0,158.0
+2026,Cape Verde,2.0,159.0
+2026,Marshall Islands,2.0,159.0
+2026,Micronesia,2.0,159.0
+2026,Central African Republic,1.0,160.0
+2026,Sao Tome and Principe,1.0,160.0
+2026,Vatican City,1.0,160.0
