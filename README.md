@@ -100,6 +100,4 @@ The Plotly outputs are stored as HTML files in [visualizations/plotly/](visualiz
 
 Python · pandas · NumPy · Matplotlib · Seaborn · Plotly · SQL · Jupyter
 
-## License and data source
 
-Add the applicable license and source attribution before publishing the repository publicly. Confirm that the raw workbooks may be redistributed on GitHub; if not, keep the raw files private and publish only the processed extracts or instructions for obtaining the source data.
